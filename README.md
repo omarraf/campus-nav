@@ -8,7 +8,6 @@ An interactive campus navigation system built with Python, Tkinter, and Pillow. 
   - **BFS**: Finds the shortest path by the number of stops.
   - **DFS**: Explores paths between buildings.
   - **Dijkstra’s Algorithm**: Computes the shortest path based on weighted distances.
-- **Dynamic Visualization**: Real-time path traversal display for DFS, showing progress on the map.
 
 ## Technologies Used
 - **Programming Language**: Python
