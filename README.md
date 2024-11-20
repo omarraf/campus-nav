@@ -28,3 +28,4 @@ An interactive campus navigation system built with Python, Tkinter, and Pillow. 
    - BFS and Dijkstra’s display the shortest path.
    - DFS shows exploratory traversal and optionally visualizes progress in real-time.
 
+Demo: https://www.youtube.com/watch?v=slo8Wt_P598
